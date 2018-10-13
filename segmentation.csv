@@ -1,0 +1,6 @@
+Cluster,Cluster_Name,Cluster_Description
+1,Upscale Buyers,"Buy most expensive items (high price affinity), but infrequent, low vertical diversity"
+2,On the brink customers,Inactive customers with lowest spend and have the highest probability of lapsing 
+3,Average Joe,Active buyers with medium frequency and spend
+4,Bottom of the Barrel,"Infrequent single time buyers with lowest GMV and transaction frequency, no high value purchase"
+5,Top of the Hill,Most frequent and active transactors with highest revenue contributing cluster
